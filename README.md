@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; URL=http://openhedgefund.com">
+
 <h2>openhedgefund</h2>
 
 <a href="http://www.openhedgefund.com">Please visit our website for details</a>
